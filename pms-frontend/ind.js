@@ -14,6 +14,8 @@ function getData()
 
 }
 
+//to display product
+
 function displayProducts(products)
 {
     document.getElementById("prod").innerHTML=""; 
