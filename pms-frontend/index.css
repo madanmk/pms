@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.product{
+    padding: 30px 100px;
+    font-family: 'Segoe UI';
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: 400;
+
+}
+
+.data-table{
+    margin-top: 20px;
+}
+
+.icon{
+    cursor: pointer;
+    transition: 0.2s;
+    margin: 0px 10px;
+}
+
+.icon:hover{
+    transform: scale(1.2);
+}
+
+td,th{
+    padding: 10px !important;
+}
+
+.form{
+    padding: 20px;
+    background-color: lightgray;
+    margin-top: 30px;
+    display: flex;
+    column-gap: 10px;
+}
