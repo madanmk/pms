@@ -14,8 +14,7 @@ function getData()
 
 }
 
-//to display product 
-//inner html using
+//to display product
 
 function displayProducts(products)
 {
